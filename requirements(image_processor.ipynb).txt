@@ -1,0 +1,15 @@
+***(We used the commands in VSCode and JupyterNotebook as reference)***
+
+1.Make sure Python is installed.
+If you are using Visual Studio Code instead, after installation go to Extentions tab and install the required extentions like python, Jupyter, etc.
+
+2.Then check the version of your OpenCV(cv2) library using the commands below:
+
+import cv2
+print(cv2.__version__)
+
+3. If it wasn't installed, try using the command below:
+
+pip install opencv-python
+
+4. Bare in mind the image location is the same folder as where the .py file is saved; simply drag and drop your image there and change the used sample name in the code to your image's name.
