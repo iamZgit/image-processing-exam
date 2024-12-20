@@ -14,7 +14,7 @@ git add
 
 **************************************************
 ## <span style="color:green"> Image Example </span>
-![Sample Image](images/sample.jpg)
+![Sample Image](images/sample(for README.md).jpg)
 **************************************************
 
 ## <span style="color:red"> How to Run </span>
