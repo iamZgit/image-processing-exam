@@ -1,6 +1,6 @@
 # Image_processor.ipynb
 
-## <span style="color:blue"> Description </span>
+## **Description**
 
 This code uses OpenCV (cv2) and Matplotlib to process and display images:
 
@@ -13,11 +13,11 @@ git add
 4. Image Display: Using Matplotlib, the processed images (grayscale, resized, and blurred) are displayed side by side in a single row (plt.subplot()), with appropriate titles, using plt.imshow() and plt.show().
 
 **************************************************
-## <span style="color:green"> Image Example </span>
+## **Image Example**
 ![Sample Image](images/sample(for_README.md).jpg)
 **************************************************
 
-## <span style="color:red"> How to Run </span>
+## **How to Run**
 To run the code:
 
 1. Install dependencies:
